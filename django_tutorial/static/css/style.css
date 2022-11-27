@@ -1,0 +1,5 @@
+li:hover{
+    border-bottom: 2px solid red;
+    color: green !important;
+    transition: 10s;
+}
